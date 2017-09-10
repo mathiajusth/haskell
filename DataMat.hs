@@ -1,3 +1,5 @@
+// in progress
+
 data Matrices t = Scalar t
                 | Matrix [Matrices t]
   deriving (Show, Eq)
