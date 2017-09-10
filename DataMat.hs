@@ -1,4 +1,4 @@
-// in progress
+-- in progress
 
 data Matrices t = Scalar t
                 | Matrix [Matrices t]
